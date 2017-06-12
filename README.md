@@ -12,4 +12,21 @@ The new garage door lifter [Hörmann Liftronic 500, 433MHz, 2 x RSC2, Ausf D, 45
 
 <img src="doc/assets/breadboard.jpg">
 
-* Breadboard Setup with a BC547 transistor, a 2.2k base resistor and a srd-05vdc-sl-c 5V relay.
+* Breadboard setup with a BC547 transistor, a 2.2k base resistor and a srd-05vdc-sl-c 5V relay.
+
+<img src="doc/assets/perfboard-top.jpg">
+
+* Perfboard build top view including including a flyback diode (thanks Hans)
+
+<img src="doc/assets/perfboard-bottom.jpg">
+
+* Perfboard build bottom view
+
+<img src="doc/assets/perfboard-perspective.jpg">
+
+* Perfboard build perspective view
+
+<img src="doc/assets/incase.jpg">
+
+* In a little case
+
